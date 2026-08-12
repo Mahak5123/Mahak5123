@@ -36,13 +36,11 @@ Software Developer | Full-Stack Engineer | AI/ML & Data Enthusiast | Problem Sol
   * **Tech Stack:** React.js, Node.js, Express.js, MongoDB, RESTful APIs, JWT Authentication
   * **Key Features:** Secure authentication, scalable API design, MongoDB data pipelines, responsive UI
   * **Result:** 92% prediction accuracy, production-ready deployment
-  * **[GitHub Repo](https://github.com/Mahak5123/Wellsphere-)**
 
 * **[WebsiteBoss — Dynamic Website Generator](https://github.com/Mahak5123/WebsiteBoss2)**
   Production-grade React application with multi-step workflows and automated CI/CD deployment.
   * **Tech Stack:** React.js, JavaScript, CSS Grid & Flexbox, Vercel
   * **Key Features:** Component-based architecture, responsive design, real-time rendering, automated deployment
-  * **[GitHub Repo](https://github.com/Mahak5123/WebsiteBoss2)** | **[Live Demo](https://website-boss2-ae8y.vercel.app/)**
 
 * **[Speech Emotion Recognition System](https://github.com/Mahak5123/Speech-Emotion-Recognition)**
   Deep learning pipeline for real-time audio processing and emotion classification.
