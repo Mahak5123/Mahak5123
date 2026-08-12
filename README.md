@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Developer | Full-Stack Engineer | AI/ML & Data Enthusiast | Problem Solver
 ------------------
 
+* 🎓 **Education:** B.Tech in Electronics & Communication Engineering, JIIT Noida
 * 💻 **Focus:** Software development, full-stack applications, RESTful APIs, and responsive web applications
 * 🏗️ **Strengthening:** Data Structures & Algorithms, System Design, backend development, and software engineering fundamentals
 * 🤖 **Exploring:** AI/ML, Data Science, LLM integrations, and intelligent software applications
 * 🤝 **Open to collaborating on:** Software development, full-stack projects, and AI/ML & Data Science applications
 * ✉️ **Reach me at:** [mahaksalecha61@gmail.com](mailto:mahaksalecha61@gmail.com) 
-* 🎓 **Education:** B.Tech in Electronics & Communication Engineering, JIIT Noida
 
 ---
 ### Skills
