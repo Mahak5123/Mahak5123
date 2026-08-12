@@ -12,13 +12,13 @@ Software Developer | Full-Stack Engineer | AI/ML & Data Enthusiast | Problem Sol
 * 🎓 **Education:** B.Tech in Electronics & Communication Engineering, JIIT Noida
 
 ---
-
 ### Skills
 
 <p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="36" height="36" alt="C" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="36" height="36" alt="React" /></a>
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="36" height="36" alt="Node.js" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="36" height="36" alt="Express.js" /></a>
@@ -26,6 +26,12 @@ Software Developer | Full-Stack Engineer | AI/ML & Data Enthusiast | Problem Sol
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
+**Programming:** C++, C, Python, JavaScript, OOPs, Data Structures & Algorithms |  
+**Frontend:** React.js, HTML5, CSS3, Tailwind CSS, Responsive UI |  
+**Backend:** Node.js, Express.js, RESTful APIs |  
+**Databases:** MongoDB, MySQL |  
+**AI/ML:** Machine Learning, Deep Learning, CNN-LSTM, LLM Integration |  
+**Tools:** Git, GitHub, VS Code, Google Colab, Vercel
 
 ---
 
@@ -76,16 +82,7 @@ Software Developer | Full-Stack Engineer | AI/ML & Data Enthusiast | Problem Sol
 
 <p align="left">
 <a href="https://www.github.com/Mahak5123" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/mahak-salecha" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 </p>
-
----
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Mahak5123"><img src="https://github-readme-stats.vercel.app/api?username=Mahak5123&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Mahak5123's GitHub stats" /></a>
 
 ---
 
@@ -95,4 +92,4 @@ Software Developer | Full-Stack Engineer | AI/ML & Data Enthusiast | Problem Sol
 
 ---
 
-**💡 Building scalable, production-ready systems. Open to full-stack and backend opportunities.**
+💡 **Building software solutions with Full-Stack Development, AI/ML, and Data Science. Open to SDE, Frontend, Data Science, and ML opportunities.**
